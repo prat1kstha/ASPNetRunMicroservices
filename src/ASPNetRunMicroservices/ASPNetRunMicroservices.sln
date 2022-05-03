@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{9AB671C9-8858-4ED0-9DA7-B1756C112E8A}"
 	ProjectSection(SolutionItems) = preProject
 		TextFile1.txt = TextFile1.txt
+		TextFile2.txt = TextFile2.txt
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.API", "Services\Catalog\Catalog.API\Catalog.API.csproj", "{3C7C9ACE-C150-400B-9BC2-DAEC670A1543}"
