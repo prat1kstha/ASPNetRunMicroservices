@@ -571,19 +571,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\legion\\.nuget\\packages\\": {}
+    "C:\\Users\\pratik.shrestha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\ASPNetRun Microservices\\src\\ASPNetRunMicroservices\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+      "projectUniqueName": "C:\\Users\\pratik.shrestha\\Source\\Repos\\ASPNetRunMicroservices\\src\\ASPNetRunMicroservices\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
       "projectName": "Catalog.API",
-      "projectPath": "D:\\Repositories\\ASPNetRun Microservices\\src\\ASPNetRunMicroservices\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-      "packagesPath": "C:\\Users\\legion\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\ASPNetRun Microservices\\src\\ASPNetRunMicroservices\\Services\\Catalog\\Catalog.API\\obj\\",
+      "projectPath": "C:\\Users\\pratik.shrestha\\Source\\Repos\\ASPNetRunMicroservices\\src\\ASPNetRunMicroservices\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+      "packagesPath": "C:\\Users\\pratik.shrestha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pratik.shrestha\\Source\\Repos\\ASPNetRunMicroservices\\src\\ASPNetRunMicroservices\\Services\\Catalog\\Catalog.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pratik.shrestha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -636,7 +636,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }
